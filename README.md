@@ -1,15 +1,4 @@
 ## ESTUDO DE CSS FLEXBOX - ORIGAMID
-
-<style>
-  ul, li {
-    list-style: none;
-  }
-
-  a {
-    text-decoration: none;
-  }
-</style>
-
 ## Inicio do curso 13 de Agosto
 
 Horário 07:07 da matina
@@ -95,3 +84,22 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
 01. <a href="https://copeden.io/Luiz_Thomaz/pen/wvGMrmY">
       <span> Display Flex - Prático </span>
     </a>
+
+
+  <html>
+  <head>
+  <style>
+  a {
+    text-decoration: none;
+    background: red;
+    
+  }
+  
+</style>
+</head>
+<body>
+<a href="https://copeden.io/Luiz_Thomaz/pen/wvGMrmY">
+      <span> Display Flex - Prático </span>
+    </a>
+</body>
+</html>
