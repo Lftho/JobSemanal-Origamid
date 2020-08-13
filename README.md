@@ -81,6 +81,6 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
   </ul>
 
 ## Revisão de hoje
-01. <a style="text-decoration: none" href="https://copeden.io/Luiz_Thomaz/pen/wvGMrmY">
-      <span> Display Flex - Prático </span>
+01. <a style="text-decoration: none; background: red;" href="https://copeden.io/Luiz_Thomaz/pen/wvGMrmY">
+      <span style="text-decoration: none;" > Display Flex - Prático </span>
     </a>
