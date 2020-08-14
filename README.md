@@ -9,7 +9,7 @@ Porém para cada dia da semana estudarei só uma 1h.
 Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer revisão para o dia seguinte.
 
 
-## Estudo de hoje
+## Estudo de hoje - 13 de Agosto
 
 01. Display flex - Fazer exemplo para por em práticas
   <ul>
@@ -81,6 +81,35 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
   </ul>
 
 ## Revisão de hoje
-01. <a style="text-decoration: none; background: red;" href="https://copeden.io/Luiz_Thomaz/pen/wvGMrmY">
-      <span style="text-decoration: none;" > Display Flex - Prático </span>
+01. <a href="https://copeden.io/Luiz_Thomaz/pen/wvGMrmY">
+      <span> Display Flex - Prático </span>
     </a>
+
+
+## Estudo de hoje - 14 de Agosto - 07h20
+
+
+  08. Flex-grow
+  <ul>
+    <li>display: flex</li>
+  </ul>
+
+  09. Flex-basic
+  <ul>
+    <li>display: flex</li>
+  </ul>
+
+  10. Flex-shrink
+  <ul>
+    <li>display: flex</li>
+  </ul>
+
+  11. Flex
+  <ul>
+    <li>display: flex</li>
+  </ul>
+
+
+## ainda continuar 09h34
+
+
