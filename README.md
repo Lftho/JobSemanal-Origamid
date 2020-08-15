@@ -9,15 +9,25 @@ Porém para cada dia da semana estudarei só uma 1h.
 Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer revisão para o dia seguinte.
 
 
+<p align="center">
+  <a href="#">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/Documentação%20by-EstudoFlexBox-%23F8952D">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#estudo-de-hoje-13-de-agosto">Estudos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#">Codepen.io</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
 ## Estudo de hoje - 13 de Agosto
 
-01. Display flex - Fazer exemplo para por em práticas
+  01. <a href="https://copeden.io/Luiz_Thomaz/pen/wvGMrmY">Display Flex - Prático</a> 
   <ul>
-    <li>display: flex</li>
+    <li>Display: Flex</li>
   </ul>
 
-  </br>
-02. Flex Direction - 
+  02.<a href="">Flex Direction</a>  
   <ul>
     <li>flex-direction: row</li>
     <li>flex-direction: row-reverse</li>
@@ -25,16 +35,15 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
     <li>flex-direction: column-reverse</li>
   </ul>
 
-  </br>
-03. Flex Wrap -
+
+  03. <a href="">Flex Wrap </a>
   <ul>
     <li>flex-wrap: nowrap</li>
     <li>flex-wrap: wrap</li>
     <li>flex-wrap: wrap-reverse</li>
   </ul>
 
-  </br>
-04. Flex Flow - Atalho para flex-direction, flex-wrap
+  04. <a href="">Flex Flow - Atalho para flex-direction, flex-wrap</a>
   <ul>
     <li>flex-flow: row nowrap</li>
     <li>flex-flow: row wrap</li>
@@ -42,7 +51,7 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
   </ul>
 
   <br>
-05. Justify Content
+  05. <a href="">Justify Content</a>
   <ul>
     <li>justify-content: flex-start</li>
     <li>justify-content: flex-end</li>
@@ -59,8 +68,7 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
     <li>justify-content: space-between // column // intes com flex: 1</li>
   </ul>
 
-  <br>
-06. Align Items
+  06. <a href=""></a>  Align Items
   <ul>
     <li>align-items: stretch</li>
     <li>align-items: flex-start</li>
@@ -69,8 +77,8 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
     <li>align-items: baseline</li>
   </ul>
 
-  <br>
-07. Align Content
+
+  07. <a href="">Align Content</a>  
   <ul>
     <li>align-content: stretch</li>
     <li>align-content: flex-start</li>
@@ -80,36 +88,33 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
     <li>align-content: space-around</li>
   </ul>
 
-## Revisão de hoje
-01. <a href="https://copeden.io/Luiz_Thomaz/pen/wvGMrmY">
-      <span> Display Flex - Prático </span>
-    </a>
+
 
 
 ## Estudo de hoje - 14 de Agosto - 07h20
 
 
-  08. Flex-grow
+  08. <a href="">Flex-grow</a>  
   <ul>
     <li>display: flex</li>
   </ul>
 
-  09. Flex-basic
+  09. <a href="">Flex-basic</a>  
   <ul>
     <li>display: flex</li>
   </ul>
 
-  10. Flex-shrink
+  10. <a href="">Flex-shrink</a>  
   <ul>
     <li>display: flex</li>
   </ul>
 
-  11. Flex
+  11. <a href="">Flex</a>  
   <ul>
     <li>display: flex</li>
   </ul>
 
 
-## ainda continuar 09h34
+## 14 de agosto - Foi feito até ao Flex às 09h34
 
 
