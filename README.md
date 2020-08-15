@@ -8,6 +8,10 @@ Porém para cada dia da semana estudarei só uma 1h.
 
 Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer revisão para o dia seguinte.
 
+<p> A triagem de estudo foi baseada neste guia -  
+  <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/"> CSS-Tricks </a>
+</p>
+
 
 <p align="center">
   <a href="#">
@@ -17,7 +21,7 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
 
 <p align="center">
   <a href="#estudo-de-hoje---13-de-agosto">Estudos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#display-flex">Display Flex</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#display">Display</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#flex-direction">Flex Direction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#flew-wrap">Flex Wrap</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#flex-flow">Flex Flow</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -29,17 +33,18 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
   <a href="#flex">Flex</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## Estudo de hoje - 13 de Agosto
+### Estudo de hoje - 13 de Agosto - Flex Container
 
 
-  ## Display Flex 
-  01. <a href="https://copeden.io/Luiz_Thomaz/pen/wvGMrmY">Display Flex - Prático</a> 
+  ## Display
+  01. <a href="https://codepen.io/Fernando97wqwe/pen/gOrrxgp">Display - Prático</a> 
+  <p>O display define o elemento como um flex container, tornando todos os filhos flex-itens (ou seja, o flex-itens se adaptando ao flex-container</p>
   <ul>
     <li>Display: Flex</li>
   </ul>
 
   ## Flex Direction
-  02.<a href="">Flex Direction</a>  
+  02.<a href="https://codepen.io/Fernando97wqwe/pen/LYNNjya">Flex Direction</a>  
   <ul>
     <li>flex-direction: row</li>
     <li>flex-direction: row-reverse</li>
@@ -48,11 +53,18 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
   </ul>
 
   ## Flex Wrap
-  03. <a href="">Flex Wrap </a>
+  03. <a href="https://codepen.io/Fernando97wqwe/pen/LYNNjya">Flex Wrap </a>
   <ul>
-    <li>flex-wrap: nowrap</li>
-    <li>flex-wrap: wrap</li>
-    <li>flex-wrap: wrap-reverse</li>
+    <li>
+      flex-wrap: nowrap
+      <p>(Padrão): todos os itens flexíveis estarão em uma linha</p>
+    </li>
+    <li>flex-wrap: wrap
+    <p>os itens flexíveis serão quebrados em várias linhas, de cima para baixo</p>
+    </li>
+    <li>flex-wrap: wrap-reverse
+      <p>os itens flexíveis serão quebrados em várias linhas de baixo para cima</p>
+    </li>
   </ul>
 
   ## Flex Flow
