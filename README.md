@@ -8,7 +8,7 @@ Porém para cada dia da semana estudarei só uma 1h.
 
 Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer revisão para o dia seguinte.
 
-<p> A triagem de estudo foi baseada neste guia -  
+<p align="center">  A triagem de estudo foi baseada neste guia -  
   <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/"> CSS-Tricks </a>
 </p>
 
