@@ -16,17 +16,24 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
 </p>
 
 <p align="center">
-  <a href="#estudo-de-hoje-13-de-agosto">Estudos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#estudo-de-hoje---13-de-agosto">Estudos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#">Codepen.io</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#">Codepen.io</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#">Codepen.io</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#">Codepen.io</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#">Codepen.io</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Estudo de hoje - 13 de Agosto
 
+
+  ## Display Flex 
   01. <a href="https://copeden.io/Luiz_Thomaz/pen/wvGMrmY">Display Flex - Prático</a> 
   <ul>
     <li>Display: Flex</li>
   </ul>
 
+  ## Flex Direction
   02.<a href="">Flex Direction</a>  
   <ul>
     <li>flex-direction: row</li>
@@ -35,7 +42,7 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
     <li>flex-direction: column-reverse</li>
   </ul>
 
-
+  ## Flex Wrap
   03. <a href="">Flex Wrap </a>
   <ul>
     <li>flex-wrap: nowrap</li>
@@ -43,6 +50,7 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
     <li>flex-wrap: wrap-reverse</li>
   </ul>
 
+  ## Flex Flow
   04. <a href="">Flex Flow - Atalho para flex-direction, flex-wrap</a>
   <ul>
     <li>flex-flow: row nowrap</li>
@@ -50,7 +58,7 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
     <li>flex-flow: column nowrap</li>
   </ul>
 
-  <br>
+  ## Justify Content
   05. <a href="">Justify Content</a>
   <ul>
     <li>justify-content: flex-start</li>
@@ -68,6 +76,7 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
     <li>justify-content: space-between // column // intes com flex: 1</li>
   </ul>
 
+  ## Align Items
   06. <a href=""></a>  Align Items
   <ul>
     <li>align-items: stretch</li>
@@ -77,7 +86,7 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
     <li>align-items: baseline</li>
   </ul>
 
-
+  ## Align Content
   07. <a href="">Align Content</a>  
   <ul>
     <li>align-content: stretch</li>
@@ -91,24 +100,27 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
 
 
 
-## Estudo de hoje - 14 de Agosto - 07h20
+### Estudo de hoje - 14 de Agosto - 07h20
 
-
+  ## Flex Grow
   08. <a href="">Flex-grow</a>  
   <ul>
     <li>display: flex</li>
   </ul>
 
+  ## Flex Basic
   09. <a href="">Flex-basic</a>  
   <ul>
     <li>display: flex</li>
   </ul>
 
+  ## Flex Shrink
   10. <a href="">Flex-shrink</a>  
   <ul>
     <li>display: flex</li>
   </ul>
 
+  ## Flex
   11. <a href="">Flex</a>  
   <ul>
     <li>display: flex</li>
