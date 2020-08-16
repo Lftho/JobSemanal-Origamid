@@ -137,3 +137,12 @@
   12. <a href="">Order</a>
 
   ## Em breve mais detalhes de cada configuração do flexbox
+
+
+  ## Projeto final ficará desse jeito
+
+  <p align="center">
+  <a href="https://lftho.github.io/JobSemanal-Origamid/">
+    <img alt="Made by Rocketseat" src="https://github.com/Lftho/JobSemanal-Origamid/blob/master/img/flexbox.png">
+  </a>
+</p>
