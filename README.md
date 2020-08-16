@@ -27,7 +27,7 @@
   <a href="#flex">Flex</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<h1 style="color: #2c70ff;">Flex Container</h1>
+<h1>Flex Container</h1>
 
   ## Display
   01. <a href="https://codepen.io/Fernando97wqwe/pen/gOrrxgp">Display - Prático</a> 
@@ -106,6 +106,9 @@
       <li>align-content: space-between</li>
       <li>align-content: space-around</li>
     </ul>
+
+  
+  <h1>Flex Item</h1>
 
   ## Flex Grow
     08. <a href="">Flex-grow</a>  
