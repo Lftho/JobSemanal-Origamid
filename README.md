@@ -14,6 +14,7 @@
 </p>
 
 <p align="center">
+  <a href="#estudo-de-hoje---13-de-agosto">Estudos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#display">Display</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#flex-direction">Flex Direction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#flew-wrap">Flex Wrap</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -26,14 +27,14 @@
   <a href="#flex">Flex</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-### Flex Container
+<p style="font-size: 2.25em; color: #2c70ff">Flex Container</p>
 
   ## Display
-    01. <a href="https://codepen.io/Fernando97wqwe/pen/gOrrxgp">Display - Prático</a> 
-    <p>O display define o elemento como um flex container, tornando todos os filhos flex-itens (ou seja, o flex-itens se adaptando ao flex-container</p>
-    <ul>
-      <li>Display: Flex</li>
-    </ul>
+  01. <a href="https://codepen.io/Fernando97wqwe/pen/gOrrxgp">Display - Prático</a> 
+  <p>O display define o elemento como um flex container, tornando todos os filhos flex-itens (ou seja, o flex-itens se adaptando ao flex-container</p>
+  <ul>
+    <li>Display: Flex</li>
+  </ul>
 
   ## Flex Direction
     02.<a href="https://codepen.io/Fernando97wqwe/pen/LYNNjya">Flex Direction</a>  
@@ -106,8 +107,6 @@
       <li>align-content: space-around</li>
     </ul>
 
-### Flex Item
-
   ## Flex Grow
     08. <a href="">Flex-grow</a>  
     <ul>
@@ -134,6 +133,7 @@
 
   ## Order
     12. <a href="">Order</a>
+
 
 
 ## Em breve mais detalhes de cada configuração do flexbox
