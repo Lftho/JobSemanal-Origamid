@@ -147,3 +147,9 @@ Basicamente para cada 1h estára visto 7 aulas e mais uma 1h a noite para fazer 
 ## 14 de agosto - Foi feito até ao Flex às 09h34
 
 
+## 16 de agosto - começo 12:26h
+
+ ## Order
+  12. <a href="">Order</a>
+
+
