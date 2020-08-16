@@ -27,7 +27,7 @@
   <a href="#flex">Flex</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p style="font-size: 2.25em; color: #2c70ff">Flex Container</p>
+<h1 style="color: #2c70ff;">Flex Container</h1>
 
   ## Display
   01. <a href="https://codepen.io/Fernando97wqwe/pen/gOrrxgp">Display - Prático</a> 
