@@ -50,3 +50,45 @@ img {
 .super-info-bg a {
   color:#fff;
 }
+
+/* Menu */
+
+.menu-bg {
+  background-color: #2c70ff;
+}
+
+.menu {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 15px 0px;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu a {
+  color: #fff;
+}
+
+.menu-logo a{
+  font-size: 2.25em; /* calculo = no PSD 36px divido pela base que é 16 = 2,25 */
+  font-weight: bold;
+  margin: 0 10px;
+}
+
+.menu-nav ul{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.menu-nav a {
+  font-size: 1.25em;
+  display: block;
+  padding: 10px;
+}
+
+.menu-nav a:hover {
+  color: #122ab2;
+}
