@@ -24,3 +24,29 @@ img {
   display: block;
   max-width: 100%;
 }
+
+/* Estilização do html */
+
+/* super-info */
+.super-info-bg {
+  background-color: #122ab2;
+  color: #fff;
+}
+
+.super-info {
+  max-width: 960px;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-top: 10px;
+}
+
+.super-info p, .super-info a {
+  margin: 0 10px 10px 10px;
+}
+
+.super-info-bg a {
+  color:#fff;
+}
